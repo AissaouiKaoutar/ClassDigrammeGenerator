@@ -8,7 +8,7 @@ public class ClassSkeleton {
 	private List<Property> properties;
 	private List<Constructors> constructors;
 	private List<Methods> methods;
-	
+	//cc
 	public ClassSkeleton() {
 		this.properties = new Vector<Property>();
 		this.methods = new Vector<Methods>();
